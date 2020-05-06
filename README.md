@@ -1,32 +1,4 @@
-# workshop-template
-
-This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
-template for creating websites for instructor training workshops.
-
-1.  Please *do not fork this repository directly on GitHub.*
-    Instead, please use GitHub's importer following [the instructions below](#creating-a-repository)
-    to create a website repository for your workshop.
-
-2.  Please *do your work in your repository's `gh-pages` branch*,
-    since that is what is
-    [automatically published as a website by GitHub][github-project-pages].
-
-3.  Once you are done,
-    please **send your repository's URL to the [Software Carpentry administrator][contact]**.
-    We build the list of workshops on our websites from the data included in your `index.html` page.
-    We can only do that if you [customize][customization] that page correctly
-    *and* send us a link to your workshop website.
-
-If you run into problems,
-or have ideas about how to make this process simpler,
-please [get in touch](#getting-and-giving-help).
-The pages on [customizing your website][customization],
-the [FAQ][faq],
-and the [design notes][design] have more detail on what we do and why.
-And please note:
-if you are teaching Git,
-please [create a separate repository](#setting-up-a-separate-repository-for-learners)
-for your learners to practice in.
+# This is a workshop-template
 
 ## Creating a Repository
 
@@ -58,13 +30,6 @@ for your learners to practice in.
     you will receive a message like
     "Importing complete! Your new repository gvwilson/2016-12-01-miskatonic is ready."
     and you can go to the new repository by clicking on the name.
-
-**Note:**
-some people have had intermittent errors during the import process,
-possibly because of the network timing out.
-If you experience a problem, please re-try;
-if the problem persists,
-please [get in touch](#getting-and-giving-help).
 
 ## Customizing Your Website
 
