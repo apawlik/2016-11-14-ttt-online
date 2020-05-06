@@ -1,4 +1,4 @@
-# workshop-template
+# This template has been changed on GH to cause conflict workshop-template
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
 template for creating websites for instructor training workshops.
